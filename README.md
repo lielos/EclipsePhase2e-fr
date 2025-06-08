@@ -1,4 +1,4 @@
-# Eclipse Phase 2e - Taduction en francais
+# Eclipse Phase 2e - Traduction en francais
 
 Grace a luizbgomide/EclipsePhase2e-ptbr
 
