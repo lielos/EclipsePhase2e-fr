@@ -1,10 +1,10 @@
 [book]
 authors = ["Posthuman Studios", "Luiz Borges Gomide"]
-language = "pt_BR"
+language = "fr_FR"
 multilingual = false
 src = "src"
 title = "Eclipse Phase 2e"
-description = "O jogo de interpretação de sobrevivência transumana"
+description = "The roleplaying game of transhuman survival."
 
 [build]
 build-dir = "../docs/pt_br"

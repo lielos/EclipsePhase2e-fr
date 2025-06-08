@@ -4,7 +4,7 @@ language = "en"
 multilingual = false
 src = "src"
 title = "Eclipse Phase 2e"
-description = "The roleplaying game of transhuman survival"
+description = "The roleplaying game of transhuman survival."
 
 [build]
 build-dir = "docs/en"
