@@ -1,38 +1,35 @@
-# Eclipse Phase 2e - Tradução para Português
+# Eclipse Phase 2e - Taduction en francais
 
-Todos os créditos do livro original vão para Posthuman Studios.
+Grace a luizbgomide/EclipsePhase2e-ptbr
 
-Utilizando [CommonMark](https://commonmark.org/) e [mbBook](https://github.com/rust-lang/mdBook).
+Tout les credits des livres vont à  Posthuman Studios.
 
-O livro em inglês pode ser acessado [aqui](https://luizbgomide.github.io/EclipsePhase2e-ptbr/en/).
+Utilisé [CommonMark](https://commonmark.org/) e [mbBook](https://github.com/rust-lang/mdBook).
 
-O livro em português (em tradução) pode ser acessado [aqui](https://luizbgomide.github.io/EclipsePhase2e-ptbr/pt_br/).
 
-[Glossário prévio](https://docs.google.com/spreadsheets/d/1ADzdDhGXVs7zfvG0qkj4LtynFpFeAbmq_pDksrWgMPI/edit?usp=sharing)
+## Progression
 
-## Progresso
-
-- [x] Organização dos arquivos (100%)
-- [ ] Livro Básico (v1.3) (47%)
-  - [x] Infâmia
-  - [x] Começando
-  - [x] Mecânicas do Jogo
-  - [x] Criando Personagens
+- [ ] Organização dos arquivos (0%)
+- [ ] Livro Básico (v1.3) (0%)
+  - [ ] Infâmia
+  - [ ] Começando
+  - [ ] Mecânicas do Jogo
+  - [ ] Criando Personagens
   - [ ] Personagem Prontos
-  - [x] Como Aconteceu
+  - [ ] Como Aconteceu
   - [ ] Futuro Acelerado
   - [ ] Cultura Transumana
   - [ ] A Nova Economia Política
   - [ ] Facções
   - [ ] Catálogo do Sistema
-  - [x] Ação & Combate
-  - [x] A Mesh
-  - [x] Psi
-  - [x] Tecnologia Transumana
-  - [x] Equipamento
+  - [ ] Ação & Combate
+  - [ ] A Mesh
+  - [ ] Psi
+  - [ ] Tecnologia Transumana
+  - [ ] Equipamento
   - [ ] Conduzindo o Jogo
   - [ ] Ameaças & Riscos X
-  - [x] Apêndices
+  - [ ] Apêndices
 - [ ] Suplementos
   - [ ] Multiplicide & Síntese
   - [ ] Opções para Personagens (v1.0.1)
